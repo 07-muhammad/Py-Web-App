@@ -3,7 +3,6 @@ import streamlit as st
 # Page configuration
 st.set_page_config(
     page_title="Project Recommendation Dashboard",
-    page_icon="💻",
     layout="centered"
 )
 
